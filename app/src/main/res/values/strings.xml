@@ -1,0 +1,56 @@
+<resources>
+    <string name = "app_name">Parcial 3</string>
+
+    <string name="hint_edtCorreo">Correo...</string>
+    <string name="hint_edtCLAVE">Clave....</string>
+    <string name="btnIngresar">INGRESAR</string>
+
+    <string name = "nuevo">NUEVO</string>
+    <string name ="buscar">BUSCAR</string>
+    <string name = "editar">EDITAR</string>
+    <string name = "salir">SALIR</string>
+    <string name = "eliminar">ELIMINAR</string>
+    <string name = "listado">LISTADO</string>
+
+    <string name="hint_edtNombreNue">Nombre</string>
+    <string name="hint_edtApellidoNue">Apellido</string>
+    <string name="hint_edtCorreoNue">Correo</string>
+    <string name="hint_edtClaveNue">Clave</string>
+    <string name="hint_edtConfirmarCla">Confirmar Clave</string>
+    <string name="rdb_Usuario">Usuario</string>
+    <string name="rdb_Asistente">Asistente</string>
+    <string name="rdb_Administrador">Administrador</string>
+    <string name="btnGuardarNue">GUARDAR</string>
+    <string name="btnCancelarNue">CANCELAR</string>
+
+    <string name ="alerta_salir_titulo">Advertencia</string>
+    <string name ="alerta_salir_msj">¿Quiere salir de la App?</string>
+    <string name = "alerta_SI">SI</string>
+    <string name = "alerta_NO">NO</string>
+
+    <string name = "btnConfirmar">CONFIRMAR</string>
+    <string name = "btnRegresar">REGRESAR</string>
+    <string name = "btnCancelar">CANCELAR</string>
+    <string name = "btnIrMenu">IR AL MENU</string>
+    <string name = "tvMostrarNombre">Nombre: </string>
+    <string name = "tvApellido">Apellido: </string>
+    <string name = "tvMostrarCorreo">Correo: </string>
+    <string name = "tvMostrarClave">Clave: </string>
+    <string name = "tvMostrarTipo">Cargo: </string>
+
+    <string name = "msj_login">Clave y/o Correo Incorrectos</string>
+    <string name = "msj_CorreoNO">El correo no existe</string>
+    <string name ="alerta_modificar_msj">¿Quiere modificar los datos?</string>
+    <string name ="alerta_guardar_msj">¿Quiere guardar los datos?</string>
+    <string name ="alerta_eliminar_msj">¿Quiere eliminar los datos?</string>
+    <string name ="msj_datos_modif">Datos modificados....</string>
+    <string name ="msj_cancelado">Cancelado!</string>
+    <string name ="msj_datos_almacenados">Datos almacenados!</string>
+    <string name ="msj_datos_eliminados">Eliminado!</string>
+    <string name ="msj_presiono_buscar">Se preciono el botón buscar</string>
+    <string name ="msj_seleccionar">Debe seleccionar un cargo!</string>
+    <string name ="msj_clavesNO">Las claves no coinciden!</string>
+    <string name="valorRequerido">Valor requerido </string>
+    <string name ="msj_saliendo">Saliendo!</string>
+
+</resources>

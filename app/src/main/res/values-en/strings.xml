@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test 3</string>
+
+    <string name="hint_edtCorreo">Email...</string>
+    <string name="hint_edtCLAVE">Password...</string>
+    <string name="btnIngresar">LOG IN</string>
+
+    <string name="nuevo">NEW</string>
+    <string name="buscar">SEARCH</string>
+    <string name="editar">EDIT</string>
+    <string name="salir">EXIT</string>
+    <string name="eliminar">DELETE</string>
+    <string name="listado">LIST</string>
+
+    <string name="hint_edtNombreNue">Name</string>
+    <string name="hint_edtApellidoNue">Last Name</string>
+    <string name="hint_edtCorreoNue">Email</string>
+    <string name="hint_edtClaveNue">Password</string>
+    <string name="hint_edtConfirmarCla">Repeat Password</string>
+    <string name="rdb_Usuario">User</string>
+    <string name="rdb_Asistente">Assistant</string>
+    <string name="rdb_Administrador">Administrator</string>
+    <string name="btnGuardarNue">SAVE</string>
+    <string name="btnCancelarNue">CANCEL</string>
+
+    <string name="alerta_salir_titulo">Warning</string>
+    <string name="alerta_salir_msj">¿Do you want to exit app?</string>
+    <string name="alerta_SI">YES</string>
+    <string name="alerta_NO">NO</string>
+
+    --mostrar confirmar datos
+    <string name = "btnConfirmar">CONFIRM</string>
+    <string name = "btnRegresar">RETURN</string>
+    <string name = "btnCancelar">CANCEL</string>
+    <string name = "btnIrMenu">GO TO MENU</string>
+    <string name = "tvMostrarNombre">Name: </string>
+    <string name = "tvApellido">Last Name: </string>
+    <string name = "tvMostrarCorreo">Email: </string>
+    <string name = "tvMostrarClave">Password: </string>
+    <string name = "tvMostrarTipo">Position: </string>
+
+    <string name="msj_login">Incorrect Email or Password</string>
+    <string name="msj_CorreoNO">The mail does not exist</string>
+    <string name ="alerta_modificar_msj">¿Do you want to modify the data?</string>
+    <string name ="alerta_guardar_msj">¿Do you want to save the data?</string>
+    <string name ="alerta_eliminar_msj">¿Do you want to delete the data?</string>
+    <string name ="msj_datos_modif">Modified data....</string>
+    <string name ="msj_cancelado">Cancel!</string>
+    <string name ="msj_datos_almacenados">Stored data!</string>
+    <string name ="msj_datos_eliminados">Deleted!</string>
+    <string name ="msj_presiono_buscar">The search button was pressed</string>
+    <string name ="msj_seleccionar">You must select a position!</string>
+    <string name ="msj_clavesNO">Keys do not match!</string>
+    <string name="valorRequerido">Mandatory value </string>
+    <string name ="msj_saliendo">Exiting!</string>
+
+</resources>
